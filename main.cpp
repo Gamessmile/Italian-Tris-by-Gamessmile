@@ -1,5 +1,7 @@
 #include <iostream>
+#include <cstdlib>
 #include "function.h"
+
 
 using namespace std;
 
